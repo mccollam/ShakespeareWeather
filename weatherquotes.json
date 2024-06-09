@@ -1,0 +1,9 @@
+[
+    {
+        "quote": "Example quote for clear daytime but not night",
+        "source": "",
+        "day": true,
+        "night": false,
+        "codes": [1000]
+    }
+]

@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "The quality of mercy is not strain'd,<br /> It droppeth as the gentle rain from heaven<br /> Upon the place beneath",
+        "source": "The Merchant of Venice, Act 4 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1063, 1150, 1153, 1183, 1240]
+    }
+]

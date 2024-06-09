@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "A great cause of the night is lack of the sun.",
+        "source": "As You Like It, Act 3 Scene 2",
+        "day": false,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1000]
+    }
+]

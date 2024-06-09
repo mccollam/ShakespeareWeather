@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "When shall we three meet again, in thunder, lightning, or in rain?",
+        "source": "Macbeth, Act 1 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1087, 1192, 1195, 1246, 1273, 1276]
+    }
+]

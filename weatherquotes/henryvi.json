@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "Much rain wears the marble.",
+        "source": "Henry VI, Act 3 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1192, 1195, 1246]
+    }
+]

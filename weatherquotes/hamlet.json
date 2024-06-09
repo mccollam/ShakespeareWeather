@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "What if this cursed hand<br /> Were thicker than itself with brother's blood,<br /> Is there not rain enough in the sweet heavens<br /> To wash it white as snow?",
+        "source": "Hamlet, Act 3 Scene 3",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1066, 1114, 1117, 1210, 1213, 1216, 1219, 1225, 1255, 1258, 1279, 1282]
+    }
+]

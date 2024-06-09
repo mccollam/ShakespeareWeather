@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "Shall I compare thee to a summer's day? Thou art more lovely and more temperate.",
+        "source": "Sonnet 18",
+        "day": true,
+        "night": true,
+        "tempmin": 20,
+        "tempmax": 100,
+        "codes": [1000, 1003]
+    }
+]

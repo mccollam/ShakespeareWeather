@@ -1,0 +1,92 @@
+[
+    {
+        "quote": "The sky, it seems, would pour down stinking pitch,<br /> But that the sea, mounting to the welkin's cheek,<br /> Dashes the fire out.",
+        "source": "The Tempest, Act 1 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1207, 1249, 1252]
+    },
+    {
+        "quote": "Thou dost, and think'st it much to tread the ooze<br /> Of the salt deep,<br /> To run upon the sharp wind of the north,<br /> To do me business in the veins o' the earth<br /> When it is baked with frost.",
+        "source": "The Tempest, Act 1 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1207, 1249, 1252, 1072, 1147, 1168, 1171, 1198, 1201, 1237, 1279, 1282]
+    },
+    {
+        "quote": "The air breathes upon us here most sweetly.",
+        "source": "The Tempest, Act 2 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": 15,
+        "tempmax": 25,
+        "codes": [1000]
+    },
+    {
+        "quote": "It is foul weather in us all, good sir,<br /> When you are cloudy.",
+        "source": "The Tempest, Act 2 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1003, 1006]
+    },
+    {
+        "quote": "Here's neither bush nor shrub, to bear off<br /> any weather at all, and another storm brewing;<br /> I hear it sing i' the wind: yond same black<br /> cloud, yond huge one, looks like a foul<br /> bombard that would shed his liquor. If it<br /> should thunder as it did before, I know not<br /> where to hide my head: yond same cloud cannot<br /> choose but fall by pailfuls.",
+        "source": "The Tempest, Act 2 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1087]
+    },
+    {
+        "quote": "Alas, the storm has come again!",
+        "source": "The Tempest, Act 2 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1117, 1171, 1192, 1195, 1201, 1207, 1246, 1252, 1264, 1273, 1276, 1279, 1282]
+    },
+    {
+        "quote": "Sounds and sweet airs, that give delight and hurt not.",
+        "source": "The Tempest, Act 3 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": 15,
+        "tempmax": 25,
+        "codes": [1000, 1003]
+    },
+    {
+        "quote": "I warrant you sir;<br /> The white cold virgin snow upon my heart<br /> Abates the ardour of my liver.",
+        "source": "The Tempest, Act 4 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1114, 1210, 1213, 1216, 1219, 1222, 1225]
+    },
+    {
+        "quote": "I have bedimm'd<br /> The noontide sun, call'd forth the mutinous winds,<br /> And 'twixt the green sea and the azured vault<br /> Set roaring war: to the dread rattling thunder<br /> Have I given fire and rifted Jove's stout oak<br /> With his own bolt",
+        "source": "The Tempest, Act 5 Scene 1",
+        "day": true,
+        "night": false,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1087, 1273, 1276, 1279, 1282]
+    },
+    {
+        "quote": "I'll deliver all;<br /> And promise you calm seas, auspicious gales<br /> And sail so expeditious that shall catch<br /> Your royal fleet far off.",
+        "source": "The Tempest, Act 5 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -10,
+        "tempmax": 100,
+        "codes": [1000, 1003]
+    }
+]

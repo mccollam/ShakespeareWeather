@@ -1,0 +1,29 @@
+[    
+    {
+        "quote": "Blow winds and crack your cheeks!",
+        "source": "King Lear, Act 3 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1114, 1117]
+    },
+    {
+        "quote": "Such bursts of horrid thunder,<br /> Such groans of roaring wind and rain.",
+        "source": "King Lear, Act 3 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1273, 1276]
+    },
+    {
+        "quote": "The to-and-fro conflicting wind and rain.",
+        "source": "King Lear, Act 3 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1273, 1276]
+    }
+]

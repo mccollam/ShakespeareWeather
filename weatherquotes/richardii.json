@@ -1,0 +1,11 @@
+[    
+    {
+        "quote": "Since the more fair and crystal is the sky,<br /> The uglier seem the clouds that in it fly.",
+        "source": "Richard II, Act 1 Scene 1",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 100,
+        "codes": [1006, 1009]
+    }
+]

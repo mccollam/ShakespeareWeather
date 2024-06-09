@@ -1,0 +1,38 @@
+[
+    {
+        "quote": "These boys are boys of ice.",
+        "source": "All’s Well That Ends Well, Act 2 Scene 3",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 5,
+        "codes": [1237]
+    },
+    {
+        "quote": "The air of paradise did fan the house<br /> And angels officed all",
+        "source": "All’s Well That Ends Well, Act 3 Scene 2",
+        "day": true,
+        "night": true,
+        "tempmin": 10,
+        "tempmax": 30,
+        "codes": [1000, 1003]
+    },
+    {
+        "quote": "I spoke with her but once<br /> And found her wondrous cold",
+        "source": "All’s Well That Ends Well, Act 3 Scene 6",
+        "day": true,
+        "night": true,
+        "tempmin": -100,
+        "tempmax": 5,
+        "codes": [1000, 1003, 1006, 1009]
+    },
+    {
+        "quote": "I am not a day of season, <br /> For thou mayst see a sunshine and a hail<br /> In me at once...",
+        "source": "All’s Well That Ends Well, Act 5 Scene 3",
+        "day": true,
+        "night": false,
+        "tempmin": -100,
+        "tempmax": 5,
+        "codes": [1072, 1168, 1171, 1198, 1201, 1237, 1261, 1264]
+    }
+]
